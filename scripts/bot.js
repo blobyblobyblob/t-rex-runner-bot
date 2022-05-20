@@ -1,4 +1,5 @@
 Runner.instance_.gameOver = function(){}
+Runner.instance_.setSpeed(10)
 
 function keyDown(e) {
     Podium = {};
