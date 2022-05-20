@@ -1473,9 +1473,9 @@
      */
     DistanceMeter.config = {
         // Number of digits.
-        MAX_DISTANCE_UNITS: 5,
+        MAX_DISTANCE_UNITS: 30,
         // Distance that causes achievement animation.
-        ACHIEVEMENT_DISTANCE: 100,
+        ACHIEVEMENT_DISTANCE: 10000000000000000,
         // Used for conversion from pixel distance to a scaled unit.
         COEFFICIENT: 0.025,
 
