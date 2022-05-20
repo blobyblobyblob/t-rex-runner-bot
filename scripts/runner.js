@@ -82,7 +82,7 @@
         CLOUD_FREQUENCY: 0.5,
         GAMEOVER_CLEAR_TIME: 750,
         GAP_COEFFICIENT: 0.6,
-        GRAVITY: 0.6,
+        GRAVITY: 0.5,
         INITIAL_JUMP_VELOCITY: 12,
         MAX_CLOUDS: 6,
         MAX_OBSTACLE_LENGTH: 3,
@@ -90,7 +90,7 @@
         MIN_JUMP_HEIGHT: 35,
         MOBILE_SPEED_COEFFICIENT: 1.2,
         RESOURCE_TEMPLATE_ID: 'audio-resources',
-        SPEED: 6,
+        SPEED: 10,
         SPEED_DROP_COEFFICIENT: 3
     };
     /**
